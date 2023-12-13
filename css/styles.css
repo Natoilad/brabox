@@ -180,6 +180,12 @@ footer .container {
   footer .container {
     max-width: 1440px;
   }
+  footer h6 {
+    margin-top: 0;
+  }
+  .footer_menu_wrapper {
+    padding-top: 0;
+  }
 }
 @media screen and (min-width: 1280px) {
   .footer_information_wrapper {
