@@ -139,9 +139,12 @@ footer .container {
   }
   .footer_follow {
     font-size: 17px;
+    margin-bottom: 36px;
+    margin-top: 0;
   }
   .footer_logo_wrapper {
     border: none;
+    padding: 0;
   }
   .footer_posts {
     display: flex;
@@ -151,6 +154,7 @@ footer .container {
   .images_wrapper {
     padding: 56px 0;
   }
+
   .footer_contact_desktop {
     display: block;
   }
@@ -158,6 +162,7 @@ footer .container {
     display: none;
   }
   .footer_link_wrapper {
+    padding: 56px 0 44px 0;
     display: flex;
     justify-content: space-between;
   }
